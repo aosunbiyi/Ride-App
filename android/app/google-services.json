@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1076038646710",
+    "project_id": "ride-app-86245",
+    "storage_bucket": "ride-app-86245.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076038646710:android:6b5c27d93b68330754df17",
+        "android_client_info": {
+          "package_name": "com.adlogic.riderap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076038646710-mta78h7c1b1d50ertof8sn59knr6kn4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3-I2nCsIcGzaaJ9uhVbXuSCaKiWjdh3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076038646710-mta78h7c1b1d50ertof8sn59knr6kn4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
